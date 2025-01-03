@@ -35,25 +35,12 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff)
-![Memcached](https://img.shields.io/badge/-Memcached-005571?logo=memcached&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=fff)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=fff)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apachecassandra&logoColor=fff)
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=fff)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=fff)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=fff)
-![Solr](https://img.shields.io/badge/-Solr-D74109?logo=apache&logoColor=fff)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=fff)
 
 ## 📈 GitHub Stats
 
