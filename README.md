@@ -43,6 +43,13 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 
+## 📊 Coding Stats
+
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Maxrosoft?theme=dark&font=source_sans_pro&ext=heatmap" alt="Maxrosoft's LeetCode Stats" />
+</p>
+
 ## 📈 GitHub Stats
 
 <p align="center">
