@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 - [**Blogging Platform API**](https://github.com/Maxrosoft/blogging-platform-api): A robust API for managing a blogging platform.
 - [**Number Guessing Game**](https://github.com/Maxrosoft/number-guessing-game): A fun and interactive game to guess a randomly generated number.
 - [**Unit Converter**](https://github.com/Maxrosoft/unit-converter): A simple and efficient tool for converting units across different measurement systems.
+- [**Todo List API**](https://github.com/Maxrosoft/todo-list-api): A simple backend application for managing todos and user authentication.
 
 ## 💼 Skills
 
