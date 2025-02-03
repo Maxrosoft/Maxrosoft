@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 - [**Unit Converter**](https://github.com/Maxrosoft/unit-converter): A simple and efficient tool for converting units across different measurement systems.
 - [**Todo List API**](https://github.com/Maxrosoft/todo-list-api): A simple backend application for managing todos and user authentication.
 - [**Weather API**](https://github.com/Maxrosoft/weather-api): A simple weather API.
+- [**URL Shortening Service**](https://github.com/Maxrosoft/url-shortening-service): A simple RESTful API for shortening long URLs.
 
 
 ## 💼 Skills
