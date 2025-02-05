@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 
 ### Intermediate
   
-- [**URL Shortening Service**](https://github.com/Maxrosoft/url-shortening-service): A simple RESTful API for shortening long URLs.
-- [**Markdown Note Taking API**](https://github.com/Maxrosoft/markdown-note-taking-api): A simple API to check grammar, save, list, and render Markdown notes as HTML.
+- [**URL Shortening Service**](https://github.com/Maxrosoft/url-shortening-service): A RESTful API for shortening long URLs.
+- [**Markdown Note Taking API**](https://github.com/Maxrosoft/markdown-note-taking-api): An API to check grammar, save, list, and render Markdown notes as HTML.
 
 
 ## Skills
