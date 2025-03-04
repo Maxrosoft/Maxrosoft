@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 - [**URL Shortening Service**](https://github.com/Maxrosoft/url-shortening-service): A RESTful API for shortening long URLs.
 - [**Markdown Note Taking API**](https://github.com/Maxrosoft/markdown-note-taking-api): An API to check grammar, save, list, and render Markdown notes as HTML.
 - [**Caching Proxy**](https://github.com/Maxrosoft/caching-proxy): A caching server that caches responses from other servers.
+- [**Workout Tracker**](https://github.com/Maxrosoft/workout-tracker): A fitness tracking application that allows users to sign up, log in, create workouts, and manage exercises, schedules, and comments.
 
 
 ## Skills
