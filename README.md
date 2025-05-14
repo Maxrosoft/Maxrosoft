@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm **Maxrosoft**, a passionate software developer
 ### Advanced
 
 - [**Movie Reservation System**](https://github.com/Maxrosoft/movie-reservation-system): A system that allows users to reserve movie tickets.
+- [**Social Media API**](https://github.com/Maxrosoft/social-media-api): An API for social media platform.
 
 ## Skills
 
